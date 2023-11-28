@@ -73336,7 +73336,7 @@ i=A.Fo(B.Be,A.U(a).ax.f,d)
 h=A.U(a).p3.z.r
 f=A.U(a).ax
 e=f.w
-r=A.h1(d,A.I3(A.a([A.DD(A.a([o,n,m,B.J7,l,B.dM,j,B.dM,k,B.dM,A.I3(A.a([i,A.ags(" Istanbul.Turkey",A.dS(d,d,e==null?f.f:e,d,d,d,d,d,d,d,d,h,d,d,d,d,d,!0,d,d,d,d,d,d,d,d))],g),B.aT,B.bA,B.be)],g),B.h9,B.bA,B.be),A.aff(A.tj(15),A.afP("https://iili.io/JJVlYKv.png",B.jE,A.bi(a,d,q).w.a.a/8))],g),B.aT,B.qu,B.be),d,new A.cN(B.x,d,d,r,d,d,B.aa),d,d,B.Az,p.a.a-60)
+r=A.h1(d,A.I3(A.a([A.DD(A.a([o,n,m,B.J7,l,B.dM,j,B.dM,k,B.dM,A.I3(A.a([i,A.ags(" Istanbul.Turkey",A.dS(d,d,e==null?f.f:e,d,d,d,d,d,d,d,d,h,d,d,d,d,d,!0,d,d,d,d,d,d,d,d))],g),B.aT,B.bA,B.be)],g),B.h9,B.bA,B.be),A.aff(A.tj(15),A.afP("https://iili.io/JxFZcVS.jpg",B.jE,A.bi(a,d,q).w.a.a/8))],g),B.aT,B.qu,B.be),d,new A.cN(B.x,d,d,r,d,d,B.aa),d,d,B.Az,p.a.a-60)
 p=A.U(a).p3.e.r
 p=A.fI("My Services",d,A.dS(d,d,A.U(a).ax.f,d,d,d,d,d,d,d,d,p,d,d,B.bP,d,d,!0,d,d,d,d,d,d,d,d))
 o=A.aj8(A.U(a).ax.f,A.bi(a,d,q).w.a.a/2.2,A.bi(a,d,q).w.a.a/2.2,2)
