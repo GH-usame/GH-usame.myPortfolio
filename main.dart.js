@@ -78981,13 +78981,13 @@ o=A.et("Computer Engineer",2,f,A.dt(f,f,A.Z(a).ax.f,f,f,f,f,f,f,f,f,o,f,f,f,f,f,
 n=A.Z(a).p3.z.r
 m=A.Z(a).ax
 l=m.w
-n=A.et("I'm a UX/UI desagner.My work experiance is more then 2 years.\nI am avalibale full-time or freelance to take your project to the next level.",5,f,A.dt(f,f,l==null?m.f:l,f,f,f,f,f,f,f,f,n,f,f,f,f,f,!0,f,f,f,f,f,f,f,f))
+n=A.et("I'm a computer engineer.My work experiance is more then 2 years.\nI am avalibale full-time or freelance to take your project to the next level.",5,f,A.dt(f,f,l==null?m.f:l,f,f,f,f,f,f,f,f,n,f,f,f,f,f,!0,f,f,f,f,f,f,f,f))
 m=A.Iw(B.Ck,A.Z(a).ax.f,f)
 l=A.Z(a).p3.Q.r
 k=A.Z(a).ax
 j=k.w
 i=t.D
-l=A.Ly(A.a([m,A.apQ(" usamegizawi@gmail.com",A.dt(f,f,j==null?k.f:j,f,f,f,f,f,f,f,f,l,f,f,f,f,f,!0,f,f,f,f,f,f,f,f))],i),B.aA,B.bD,B.aG)
+l=A.Ly(A.a([m,A.apQ(" usama.gizawi@gmail.com",A.dt(f,f,j==null?k.f:j,f,f,f,f,f,f,f,f,l,f,f,f,f,f,!0,f,f,f,f,f,f,f,f))],i),B.aA,B.bD,B.aG)
 j=A.Iw(B.Co,A.Z(a).ax.f,f)
 k=A.Z(a).p3.Q.r
 m=A.Z(a).ax
@@ -79005,7 +79005,7 @@ s=A.et("My Services",f,f,A.dt(f,f,A.Z(a).ax.f,f,f,f,f,f,f,f,f,s,f,f,B.bx,f,f,!0,
 r=A.aoG(A.Z(a).ax.f,A.au(a,f,c).w.a.a/2.2,A.au(a,f,c).w.a.a/2.2,2)
 q=A.au(a,f,c).w.a.a>600?B.J5:B.J7
 p=A.Z(a).p3.e.r
-p=A.et("Programing Language",f,f,A.dt(f,f,A.Z(a).ax.f,f,f,f,f,f,f,f,f,p,f,f,B.bx,f,f,!0,f,f,f,f,f,f,f,f))
+p=A.et("My Skills",f,f,A.dt(f,f,A.Z(a).ax.f,f,f,f,f,f,f,f,f,p,f,f,B.bx,f,f,!0,f,f,f,f,f,f,f,f))
 o=A.aoG(A.Z(a).ax.f,A.au(a,f,c).w.a.a/2.4,A.au(a,f,c).w.a.a/2.4,2)
 n=A.au(a,f,c).w.a.a>600?B.J8:B.J6
 m=A.Z(a).p3.e.r
